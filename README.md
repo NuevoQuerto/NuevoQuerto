@@ -1,5 +1,5 @@
-### Last Project: https://www.mygold.id
-### Current Project: https://www.dimia.id
+### Last But Not Least: https://www.mygold.id
+### Current: https://www.dimia.id
 
 <!--
 **NuevoQuerto/NuevoQuerto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
